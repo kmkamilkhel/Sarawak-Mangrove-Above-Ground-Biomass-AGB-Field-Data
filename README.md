@@ -68,12 +68,6 @@ Plots of 30 m × 30 m were established to align with Sentinel-2 spatial resoluti
 
 ---
 
-## Citation
-If you use this dataset, please cite:
-> [Your Name(s)], [Year]. Sarawak Mangrove Above-Ground Biomass (AGB) Field Data. GitHub. DOI: [Zenodo DOI here].
-
----
-
 ## License
 This dataset is released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
